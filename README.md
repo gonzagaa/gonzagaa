@@ -1,5 +1,6 @@
 ## Opa! Meu nome é Gustavo Gonzaga. 
 
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Explorer - RocketSeat.
 
 
