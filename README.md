@@ -55,7 +55,7 @@
   <img align="center" src="https://img.shields.io/badge/-gustavognzg-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gonxgx" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gonzagaa.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gonzxgx-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
