@@ -39,11 +39,11 @@
 <br>
 
 <p>
-<a href="https://portfolio.gustavogonzaga.dev.br" target="_blank">Acesse meu website</a>
+<a href="https://portfolio.gustavogonzaga.dev.br" target="_blank">🚀 Acesse meu website</a>
 </p>
 
 <p>
-<a href="https://gustavogonzaga.dev.br" target="_blank">Veja meu portfolio</a>
+<a href="https://gustavogonzaga.dev.br" target="_blank">🚀 Veja meu portfolio</a>
 </p>
 
 <br><br>
