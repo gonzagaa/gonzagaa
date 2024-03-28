@@ -36,20 +36,14 @@
 </p>
 -->
 
-<br><br>
-
-## Portfolio
+<br>
 
 <p>
-<a href="https://portfolio.gustavogonzaga.dev.br" target="_blank"></a>
+<a href="https://portfolio.gustavogonzaga.dev.br" target="_blank">Acesse meu website</a>
 </p>
 
-<br><br>
-
-## Website
-
 <p>
-<a href="https://gustavogonzaga.dev.br" target="_blank"></a>
+<a href="https://gustavogonzaga.dev.br" target="_blank">Veja meu portfolio</a>
 </p>
 
 <br><br>
