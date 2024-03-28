@@ -38,13 +38,29 @@
 
 <br><br>
 
+## Portfolio
+
+<p>
+<a href="https://portfolio.gustavogonzaga.dev.br" target="_blank"></a>
+</p>
+
+<br><br>
+
+## Website
+
+<p>
+<a href="https://gustavogonzaga.dev.br" target="_blank"></a>
+</p>
+
+<br><br>
+
 ## Contact
 
 <p>
 <a href="https://linkedin.com/in/gustavognzg" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gustavognzg-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/gonzagaa.dev" target="_blank">
+<a href="https://instagram.com/gonxgx" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gonzagaa.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
